@@ -2,7 +2,7 @@
 # TODO use dash as the separator instead of camelCase.
 version: '0.9'
 emailToList: "yasassri@wso2.com"
-jobName: "wum-sce-test-wso2ei-6.4.0-full-testgrid"
+jobName: "wum-sce-test-wso2ei-6.3.0-full-testgrid-test"
 buildFrequency: ""
 infrastructureConfig:
   iacProvider: CLOUDFORMATION
