@@ -1,10 +1,11 @@
 # TestGrid Test Configuration Parameters
 # TODO use dash as the separator instead of camelCase.
 version: '0.9'
-emailToList: "yasassri@wso2.com"
-jobName: "wum-sce-test-wso2ei-6.4.0-full-testgrid-auto"
-buildFrequency: ""
-autoOnboardJob: true 
+jobConfigs:
+  emailToList: "yasassri@wso2.com"
+  jobName: "wum-sce-test-wso2ei-6.4.0-full-testgrid-auto1"
+  buildFrequency: ""
+  autoOnboardJob: true 
 infrastructureConfig:
   iacProvider: CLOUDFORMATION
   infrastructureProvider: AWS
